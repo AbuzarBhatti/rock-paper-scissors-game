@@ -17,7 +17,7 @@ You play against the computer in a classic test of chance using simple command-l
 
 ## 📸 Screenshot
 
-
+Screenshot 2025-06-01 221627.png
 
 ---
 
